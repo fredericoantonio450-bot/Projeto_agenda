@@ -10,7 +10,7 @@ O sistema permite listar, visualizar e editar os contatos através de navegaçã
 
 ## 🎥 Demonstração do Projeto
 
-![Demonstração da Agenda de Contatos](ProjetoAgenda-ezgif.com-video-to-gif-converter.gif)
+<img width="800" height="362" alt="ProjetoAgenda-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5d3900af-5957-4a63-947e-23449eb63d29" />
 
 ---
 
